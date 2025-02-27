@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Roman Ahmad</h1>
 <h3 align="center">A passionate Machine learning Engineer from Pakistan</h3>
 
-<img align="right" alt="coding"width="400" src="">
+<img align="right" alt="coding" width="400" src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 🌱 I’m currently learning **AI Agents |Data Science| Machine Learning**
 
